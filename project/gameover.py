@@ -39,3 +39,6 @@ while not game_over:
     else:
         print("Wrong!")
 
+# 2차 수정
+import time
+
